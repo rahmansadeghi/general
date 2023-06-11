@@ -1,6 +1,5 @@
 # انبار کد
 [Country flags](/flags/)
-
 [Icons](/icons/)
 
-پرچم ایران (xlink:title)
+برای دانلود فایل نقشه ایران، فایل  Iran map.rar را دانلود کنید.
